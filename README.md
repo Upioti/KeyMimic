@@ -16,4 +16,4 @@ Typing Automation designed to mimic human behavior making pauses, mistakes and t
 - let it type
 
 # Tutorial:
-[Video](tutorial.mp4)
+https://streamable.com/110am5
